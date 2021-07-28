@@ -1,0 +1,2 @@
+En este caso practico 
+Realizamos un modelo RESUNET para detectar 'COVID-19','Normal','Pneumonia Virica','Pneumonia Bacteriana'.
