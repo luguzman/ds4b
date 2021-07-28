@@ -1,0 +1,3 @@
+En este caso practico 
+Realizamos un modelo de una RNC para clasificar si una herramiente viene defectuosa o no
+y utilizamos una RESUNET para enmascaras donde esta esa falla
