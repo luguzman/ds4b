@@ -1,2 +1,3 @@
 En este caso practico 
-Realizamos un modelo predictivo de ventas con Facebook Prophet
+Realizamos un modelo predictivo de ventas con Facebook Prophet.
+

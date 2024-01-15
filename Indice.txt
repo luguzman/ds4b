@@ -1,0 +1,22 @@
+Proyecto - Departamento de RRHH
+ENTRENAMOS Y EVALUAMOS UN CLASIFICADOR UTILIZANDO DEEP LEARNING
+Objetivo:
+Analizar cuales son los empleados más probables a salir de la empresa.
+Reducir el tiempo de la selección de los mejores candidatos para la empresa.
+
+Proyecto - Departamento de marketing
+Realizamos un modelo de clusterización con Autoencoders
+objetivo:
+Segmentar a nuestros clientes para ofrecerles una campaña de publicidad determinada.
+
+Proyecto - Departamento de ventas.
+Realizamos un modelo predictivo de ventas con Facebook Prophet.
+El algoritmo exige para pider apliocarlo que las varibles fecha y ventas tengan un nombre específico.
+ds - fecha
+y - ventas
+
+Proyecto - Departamento de Operaciones.
+Realizamos un modelo RESUNET para detectar 'COVID-19','Normal','Pneumonia Virica','Pneumonia Bacteriana'.
+Objetivo: Detectar enfermedades observando radiografias. Utilizamos la técnica de transfer learning
+
+Proyecto - Departamento de Relaciones públicas.

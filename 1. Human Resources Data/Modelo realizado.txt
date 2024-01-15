@@ -1,2 +1,6 @@
 En este caso practico 
 ENTRENAMOS Y EVALUAMOS UN CLASIFICADOR UTILIZANDO DEEP LEARNING
+
+Objetivo:
+Analizar cuales son los empleados más probables a salir de la empresa.
+Reducir el tiempo de la selección de los mejores candidatos para la empresa.

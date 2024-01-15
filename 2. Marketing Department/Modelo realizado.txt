@@ -1,2 +1,5 @@
 En este caso practico 
 Realizamos un modelo de clusterización con Autoencoders
+
+objetivo:
+Segmentar a nuestros clientes para ofrecerles una campaña de publicidad determinada.
